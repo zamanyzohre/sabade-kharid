@@ -2,7 +2,6 @@
 function Home () {
   return (
     <div className='text-center'>
-        <h2 className='mb-4'>Shping Card - Webinoo.ir</h2>
         <h3>لطفا برای دیدن محصولات روی منوی </h3>
         <h3 className="">Poducts</h3> 
         <h3>در نوار بالای صفحه کلیک کنید </h3>
